@@ -3,11 +3,9 @@
 Este proyecto presenta un dashboard interactivo sobre la evolución de eventos vitales en la República Dominicana, incluyendo nacimientos vivos, defunciones, matrimonios y divorcios. El análisis abarca distintos años y provincias, permitiendo explorar la dinámica poblacional y familiar del país.
 
 🧩 Objetivos
-Visualizar tendencias demográficas por año y provincia.
-
-Analizar relaciones entre nacimientos, defunciones, matrimonios y divorcios.
-
-Identificar provincias con mayor crecimiento natural o cambios sociales relevantes.
+- Visualizar tendencias demográficas por año y provincia.
+- Analizar relaciones entre nacimientos, defunciones, matrimonios y divorcios.
+- Identificar provincias con mayor crecimiento natural o cambios sociales relevantes.
 
 📁 Datos Utilizados
 Fuente: Oficina Nacional de Estadística (ONE)
