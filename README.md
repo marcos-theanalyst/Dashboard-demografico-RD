@@ -1,5 +1,7 @@
 # Dashboard-demografico-RD
 
+[`Link`](https://app.powerbi.com/groups/me/reports/79b2691f-ef5d-41e2-8a02-a033bbc33af3/f1d7765cc665decd2810?experience=power-bi)
+
 Este proyecto presenta un dashboard interactivo sobre la evolución de eventos vitales en la República Dominicana, incluyendo nacimientos vivos, defunciones, matrimonios y divorcios. El análisis abarca distintos años y provincias, permitiendo explorar la dinámica poblacional y familiar del país.
 
 🧩 Objetivos
